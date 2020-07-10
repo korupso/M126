@@ -1,0 +1,3 @@
+# Fazit
+## Thamisha Thanabalasingam
+Dieses Modul fiel mir schwer, da es im Home-Office war. Ebenfalls kenne ich meinen Gruppenpartner nicht weshalb mir die Kommunikation schwer gefallen ist. Da ich auch die Sensoren, Aktoren und die anderen Sachen leider nicht hatte konnte ich nur die Aufgaben mit den Raspis alleine machen und war dadruch in der Auswahl recht eingeschränkt. Ebenfalls habe ich keinen Drucker zuhause oder andere Geräte ausser dem Laptop.
